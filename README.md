@@ -1,5 +1,3 @@
-Sure, here's an appealing README format for your ToDo List project:
-
 # ToDo List Web Application
 
 ## Overview
@@ -17,10 +15,6 @@ This is a simple ToDo list web application designed to help you stay organized a
 - **Task Deletion:** Remove tasks from your list by clicking the delete (✖) button.
 
 - **Responsive Design:** The app is fully responsive, so you can manage your tasks on both desktop and mobile devices.
-
-## Demo
-
-You can try out the ToDo list app by visiting the [live demo](https://your-demo-link.com).
 
 ## Installation
 
@@ -66,7 +60,7 @@ This project is licensed under the MIT License. For more details, see the [LICEN
 
 For questions or suggestions, please contact:
 
-- Your Name - [email@example.com](mailto:email@example.com)
+- Shivansh Khankriyal - [Shivanshkhankriyal17@gmail.com](mailto:Shivanshkhankriyal17@gmail.com)
 
 We hope you find this ToDo list app helpful in staying organized and productive!
 
