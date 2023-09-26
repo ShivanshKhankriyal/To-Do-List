@@ -4,7 +4,7 @@
 
 This is a simple ToDo list web application designed to help you stay organized and manage your daily tasks. It's built using HTML, CSS, and JavaScript, making it easy to use and customize.
 
-![ToDo List Preview](screenshot.png)
+![ToDo List Preview][asas](https://github.com/ShivanshKhankriyal/To-Do-List/assets/96327360/e21577c7-ba74-452e-b823-f58ee659e1d2)
 
 ## Features
 
